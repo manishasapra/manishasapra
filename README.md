@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey I'm Manisha Sapra 👋
+📍 Berlin, Germany 🇩🇪
 
-<!--
-**manishasapra/manishasapra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+I'm a QA Engineer passionate about automation, frameworks, and testing APIs.  
+I work with Selenium, Java, Python, Rest-Assured and CI/CD tools.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automation frameworks.
+- 🌱 I’m learning advanced API testing and performance testing. 
+- 💬 Ask me about QA, testing careers.
+- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/sapramanisha/])
+- 🎨 Fun fact: I love creating paintings on weekends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
