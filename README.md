@@ -2,8 +2,8 @@ Hey, I'm Manisha Sapra! 👋
 📍 Berlin, Germany 🇩🇪
 
 **About Me**
-I'm a QA Engineer passionate about automation, frameworks, and testing APIs.  
-I work with Selenium, Java, Python, Rest-Assured and CI/CD tools.
+I’m an ISTQB-certified QA Engineer, passionate about automation, frameworks, and testing APIs. 
+I work with Selenium, Java, Python, Rest-Assured, and CI/CD tools.
 
 - 🔭 I’m currently working on automation frameworks.
 - 🌱 I’m learning advanced API testing and performance testing. 
@@ -11,11 +11,4 @@ I work with Selenium, Java, Python, Rest-Assured and CI/CD tools.
 - 📫 Reach me on [LinkedIn][https://www.linkedin.com/in/sapramanisha/]
 - 🎨 Fun fact: I love creating paintings on weekends.
 
-<table>
-  <tr>
-    <td>
-      <img src="[https://your-image-url.com/istqb-badge.png](https://www.google.com/
-https://d288qud2qgn4l3.cloudfront.net/media/schemas/CTFL.jpg)" alt="ISTQB Certified" width="120"/>
-    </td>
-  </tr>
-</table>
+
