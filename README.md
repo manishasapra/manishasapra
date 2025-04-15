@@ -1,7 +1,8 @@
-Hey, I'm Manisha Sapra! 👋
+## Hey, I'm Manisha Sapra! 👋
 📍 Berlin, Germany 🇩🇪
 
-**About Me**
+## About Me
+
 I’m an ISTQB-certified QA Engineer, passionate about automation, frameworks, and testing APIs. 
 I work with Selenium, Java, Python, Rest-Assured, and CI/CD tools.
 
